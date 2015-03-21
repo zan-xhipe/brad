@@ -1,0 +1,1 @@
+A basic package for working with binary radians in go
